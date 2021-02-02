@@ -1,0 +1,22 @@
+#movies {
+    list-style: none;
+    font-size: 24px;
+}
+
+#movies li{
+    display:flex;
+    }
+    
+
+#movies li h5 {
+display:inline;
+}
+
+#movies li img {
+    display:flex;
+    margin: none;
+}
+
+#divPokemon{
+    display: flex;
+}
